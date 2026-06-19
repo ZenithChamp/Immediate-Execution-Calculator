@@ -1,10 +1,11 @@
 import sys
-s=input()
+s=input("ENTER C TO START CALCULATOR:")
 if s =="C":
     s1=""
     s2=""
     d="0"
     sn=""
+    print("Start:")
     while True:
         d=input()
         b=0
